@@ -47,6 +47,6 @@
     {
         "dyn_rel_url" : "HackerA7/raw/refs/heads/main/AdventureWorks_Territories.csv",
         "dyn_sink_folder" : "AdventureWorks_Territories",
-        "p_sink_filename" : "AdventureWorks_Territories.csv"
+        "dyn_sink_filename" : "AdventureWorks_Territories.csv"
     }
 ]
